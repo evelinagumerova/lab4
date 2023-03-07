@@ -1,4 +1,5 @@
-#задача 1
+'задача 1'
+
  par1 = input("")
  par2 = input("")
  if par1 == par2:
