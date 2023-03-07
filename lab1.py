@@ -24,9 +24,9 @@
 #задача3
  year = int(input(""))
  if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
-     print("Год", year, "- високосеный.")
+     print("Год", year, "- високосный.")
  else:
-     print("Год", year, "- НЕ високосеный.")
+     print("Год", year, "- НЕ високосный.")
 
 #задача4
  vvod1 = input("")
